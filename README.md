@@ -1,25 +1,8 @@
 # README
+This is my first Rails app build from scratch.
+How to set up ruby on rails dev enviroment
+I followed: https://www.youtube.com/watch?v=G-B_KUFNkQQ
+How to customized your app:
+I followed this page: https://hackernoon.com/how-to-create-your-first-ruby-on-rails-application-in-no-time-nw423zf9
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-"# myfirstrailsapp" 
